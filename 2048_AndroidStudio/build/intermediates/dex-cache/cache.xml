@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/anjalimalik/.android/build-cache/ce49e63f2faa1f7b4e297af62bfcc9801aa991f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/anjalimalik/AndroidStudioProjects/CS180_Lab11/app/build/intermediates/pre-dexed/debug/classes_f3ac3db9a82f7ec9218c836b2aa48481fe04cabe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjalimalik/.android/build-cache/8f8f4a2acf9716458f1a6cb2054a2db2de291496/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/anjalimalik/AndroidStudioProjects/CS180_Lab11/app/build/intermediates/pre-dexed/debug/classes_18cbaed41cb8e02188a0e97373107d5e477bebb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjalimalik/.android/build-cache/c9e3f7fe4fc80657a640fdb6db34e92acfacfc20/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/anjalimalik/AndroidStudioProjects/CS180_Lab11/app/build/intermediates/pre-dexed/debug/classes_a414566e539266fd3f5531547b58e580cea3fc63.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anjalimalik/AndroidStudioProjects/CS180_Lab11/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/anjalimalik/AndroidStudioProjects/CS180_Lab11/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8fee3eb62c1150b0c9671208bdb2270dce977ae6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjalimalik/.android/build-cache/532668ce3b34e8420fdfa5d45c58789438119655/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/anjalimalik/AndroidStudioProjects/CS180_Lab11/app/build/intermediates/pre-dexed/debug/classes_ae210021ba5ab398ad3868c580f39d1ef0355836.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjalimalik/.android/build-cache/9fe828cdc2d7498d3a8b4a522555b8b6c2ab832b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/anjalimalik/AndroidStudioProjects/CS180_Lab11/app/build/intermediates/pre-dexed/debug/classes_80ee79a20ca7c93207b76c01338a6a2dcce00b2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjalimalik/.android/build-cache/58c20f9ab00b1ca4a9c164e3be359e193607ef47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/anjalimalik/AndroidStudioProjects/CS180_Lab11/app/build/intermediates/pre-dexed/debug/classes_43c01c1a4e23d05e3c167cbdb7c454516a57c25e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjalimalik/.android/build-cache/ab9af61ff7895bb9501e073482929f35b0901de2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/anjalimalik/AndroidStudioProjects/CS180_Lab11/app/build/intermediates/pre-dexed/debug/classes_53c4a5d95aa823b69e88b26addeacf6681e46111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjalimalik/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/anjalimalik/AndroidStudioProjects/CS180_Lab11/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_02fc36f1cb0e86b2e6469a446d51e927c15a42bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjalimalik/.android/build-cache/d9c496cba35ec4c45fd9071cc8b8e5dd88729698/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/anjalimalik/AndroidStudioProjects/CS180_Lab11/app/build/intermediates/pre-dexed/debug/classes_936fa38174c3cd7e1c0944c5628f456084b59ebb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anjalimalik/AndroidStudioProjects/CS180_Lab11/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f84894615550481caceb4cd08b4ae75381322e0">
+        <dex dex="/Users/anjalimalik/AndroidStudioProjects/CS180_Lab11/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d1ecfcef6c6ef4dfdc932e52c76e2ba75eb3df02/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjalimalik/.android/build-cache/c4d4bff44120ddd5b852f00a80d434973080f53b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/anjalimalik/AndroidStudioProjects/CS180_Lab11/app/build/intermediates/pre-dexed/debug/classes_57fd3efc0abf11f9391f31b045e39d6310db45f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjalimalik/.android/build-cache/3a6b884c5597077928e4294057524bbaca7a729b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/anjalimalik/AndroidStudioProjects/CS180_Lab11/app/build/intermediates/pre-dexed/debug/classes_b813479b015e5cb86150c81a11c14bd6aaa486fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjalimalik/.android/build-cache/dfd070bd4e133cc051b6ecccffc56e765123729c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/anjalimalik/AndroidStudioProjects/CS180_Lab11/app/build/intermediates/pre-dexed/debug/classes_fe5601e95a10ad770351af26282d93e3986e3919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjalimalik/.android/build-cache/d44e8d4f69a3fa3083e8a276eacb8a0f9eaa310f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/anjalimalik/AndroidStudioProjects/CS180_Lab11/app/build/intermediates/pre-dexed/debug/classes_b3a143e5dbecaa8ffd5eea754c313985a5440c53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjalimalik/.android/build-cache/21863aac96e779d3798464351ed016c37666784b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/anjalimalik/AndroidStudioProjects/CS180_Lab11/app/build/intermediates/pre-dexed/debug/classes_b593b4064404cd2ef6564df091b14bcc9a74dc09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjalimalik/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/anjalimalik/AndroidStudioProjects/CS180_Lab11/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_9ab931a9d9a582632200d289688db0dafcb16038.jar" />
+    </item>
+
+</items>
